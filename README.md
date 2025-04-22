@@ -1,6 +1,4 @@
-Here's a simple `README.md` file you can add to your repository to describe your project:
 
-```markdown
 # AI-ML-DL
 
 This repository documents my journey to learn Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL). It serves as a collection of notebooks, experiments, and resources as I explore these exciting fields.
